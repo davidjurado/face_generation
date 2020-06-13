@@ -1,4 +1,4 @@
-## Face Generation
+# Face Generation
 
 This repository corresponds to my submission of the four project from the Deep Learning nanodegree program from [Udacity](https://github.com/udacity/deep-learning-v2-pytorch).
 
@@ -9,4 +9,8 @@ I trained two diferent GANs that geneate faces of different sizes:
 
 ### Results for GAN 32x32
 
-<img src='face_gan.gif'>
+<img src='face_gan_32.gif'>
+
+### Results for GAN 64x64
+
+<img src='face_gan_64.gif'>
