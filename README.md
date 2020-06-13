@@ -1,6 +1,6 @@
 # Face Generation
 
-This repository corresponds to my submission of the four project from the Deep Learning nanodegree program from [Udacity](https://github.com/udacity/deep-learning-v2-pytorch).
+This repository corresponds to my submission of the fourth project from the Deep Learning Nanodegree program from [Udacity](https://github.com/udacity/deep-learning-v2-pytorch).
 
 I trained two diferent GANs that geneate faces of different sizes:
 
